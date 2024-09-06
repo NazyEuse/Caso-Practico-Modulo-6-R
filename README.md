@@ -9,3 +9,4 @@ embarcación, etcétera) tienen los pasajeros que sobrevivieron o no sobrevivier
 Una vez finalizado el análisis, en un documento pdf comparte un resumen no mayor a 2
 párrafos con tus descubrimientos más importantes.
 
+## se suben el codigo en R del analisis y el Resumen solicitado 
